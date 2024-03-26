@@ -1,6 +1,6 @@
 # Marsaspirant
 Git learning.
 <br>
-Auther: Vaibhav Lohar
+Author: Vaibhav Lohar
 <br>
 Company: Marsaspirant
